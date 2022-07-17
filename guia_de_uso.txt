@@ -1,0 +1,3 @@
+Siempre que empieces a trabajar con el repositorio, actualizalo.
+ejemplo:
+------git pull origin main      
